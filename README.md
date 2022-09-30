@@ -5,7 +5,7 @@ Dependencies
 ============
 
   URI: https://github.com/STMicroelectronics/meta-st-openstlinux
-  branch: thud
+  branch: dunfell
 
 Adding the meta-st-min layer to your build
 =================================================
